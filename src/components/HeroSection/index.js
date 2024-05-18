@@ -18,7 +18,7 @@ const HeroSection = () => {
       <HeroContent>
         <HeroH1>VON CASTRO</HeroH1>
         <HeroP>
-          ASPIRING FULL STACK WEB DEVELOPER. 3RD YEAR COMPUTER SCIENCE STUDENT.
+          BSc Computer Science 2023
         </HeroP>
       </HeroContent>
     </HeroContainer>
